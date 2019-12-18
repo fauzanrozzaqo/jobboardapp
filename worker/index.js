@@ -1,6 +1,6 @@
 var CronJob = require("cron").CronJob;
 new CronJob(
-  "*/1 * * * * *",
+  "* * * * * *",
   function() {
     console.log("You will see this message every second");
   },
