@@ -1,0 +1,23 @@
+{
+  "name": "jobboardapp",
+  "version": "1.0.0",
+  "description": "Apps for job seeker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fauzanrozzaqo/jobboardapp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fauzanrozzaqo/jobboardapp/issues"
+  },
+  "homepage": "https://github.com/fauzanrozzaqo/jobboardapp#readme",
+  "dependencies": {
+    "cron": "^1.7.2"
+  }
+}
