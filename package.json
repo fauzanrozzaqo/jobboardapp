@@ -19,6 +19,6 @@
   "homepage": "https://github.com/fauzanrozzaqo/jobboardapp#readme",
   "dependencies": {
     "cron": "^1.7.2",
-    "node-fetch": "^2.6.0"
+    "node-fetch": "^2.6.1"
   }
 }
